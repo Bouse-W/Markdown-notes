@@ -12,7 +12,7 @@
 
    ###### 另：UItralSO下方文件窗口找到ubuntu镜像并双击 -> menu里选择“启动” -> “写入硬盘映像”，确保硬盘驱动器时U盘，映像文件是将要安装的ubuntu镜像(因为我还藏了一个祖传的20.04🌚)
 
-   <p align = "center"> <img src ="//home/trash-w/MarkdownNotes/imagesa/QQ图片20220106151348.png" alt="QQ图片20220106151348" style="zoom: 30%;" /> </p>
+   <p align = "center"> <img src ="/home/trash-w/MarkdownNotes/imagesa/QQ图片20220106151348.png" alt="QQ图片20220106151348" style="zoom: 30%;" /> </p>
 
 4. windows下对D盘（**单硬盘情况下选最后一个盘**）<u>右键</u>进行分区，这里给Ubuntu分了90G
 
@@ -38,7 +38,7 @@
 
    <p align = "center"> <img src ="/home/trash-w/MarkdownNotes/imagesa/QQ图片20220106155301.jpg" alt="QQ图片20220106155301" style="zoom: 60%;" /> </p>
 
-   
+
 
 <p align = "center"> <img src ="/home/trash-w/MarkdownNotes/imagesa/QQ图片20220106155105.jpg" alt="QQ图片20220106155105" style="zoom:100%;" />  </p>
 
